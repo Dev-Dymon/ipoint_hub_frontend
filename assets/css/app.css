@@ -364,7 +364,7 @@ a{
     aspect-ratio: 16/8;
     overflow: hidden;
     margin-block: 80px;
-    background: linear-gradient(0deg, #60fb7780, #60fb773b), url('/assets/image/Container.jpg');
+    background: linear-gradient(0deg, #60fb7780, #60fb773b), url('assets/image/Container.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
